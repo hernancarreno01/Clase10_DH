@@ -1,0 +1,11 @@
+const fs = require("fs");
+
+function leerArchivo(archivoNombre) {
+  const contenidoArchivo = fs.readFileSync(archivoNombre, "utf-8");
+
+  const contenidoJSON = JSON.parse(contenidoArchivo);
+
+  return contenidoJSON;
+}
+
+module.exports = leerArchivo;

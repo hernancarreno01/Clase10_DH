@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "marca": "Olmo",
+      "modelo": "Regal",
+      "rodado": 29,
+      "anio": 2022,
+      "color": "roja",
+      "peso": 16,
+      "tipo": "Montañera",
+      "precio": 120000,
+      "vendida": true
+    },
+    {
+      "id": 3,
+      "marca": "CHEVROLET",
+      "modelo": "la ma' linda",
+      "rodado": 22,
+      "anio": 2012,
+      "color": "oxidada",
+      "peso": 16,
+      "tipo": "chatarra",
+      "precio": 124,
+      "vendida": true
+    },
+    {
+      "id": 2,
+      "marca": "GTA SAN ANDREAS",
+      "modelo": "playerita",
+      "rodado": 12,
+      "anio": 2020,
+      "color": "violeta",
+      "peso": 16,
+      "tipo": "Playera",
+      "precio": 234324,
+      "vendida": false
+    }
+  ]
