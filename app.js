@@ -46,4 +46,4 @@ const dhBici = {
 console.log("Bicicleta con ID 3:", dhBici.buscarBici(3));
 console.log("Vender bicicleta con ID 2:", dhBici.venderBici(2));
 console.log("Lista de bicicletas para la venta:", dhBici.biciParaLaVenta());
-console.log("Total de ventas realizadas:", dhBici.totalDeVentas());
+console.log("Total de ventas realizadas: $",dhBici.totalDeVentas());
