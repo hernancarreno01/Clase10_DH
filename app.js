@@ -6,7 +6,7 @@ llamando a las mismas y mostrando los resultados utilizando console.log().
 */
 
 // Importar el módulo datosBici.js
-const bicicletas = require("./datosBici");
+const bicicletas = require("./datosBici.js");
 
 // Crear objeto literal dhBici con la lista de bicicletas importadas
 const dhBici = {
